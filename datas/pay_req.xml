@@ -1,0 +1,77 @@
+<SpayWechatJspayReqBody>
+    <service>pay.weixin.jspay</service>
+    <version>2.0</version>
+    <sign>HXS9cWYKy+eTkPlYw5GHJ2aLJWqgnS4RI24rHv1sO0FunlD54YQHeyVSnova2IzC2jQhg82U3TQZif5+OMePLbJC/HfwyKG9IiLQoDNnKO0a/96u6u+mRwyNpa8f04loEuvOThIECLbrbQwDeO0iUJsN+bwgLtH8xG3Y5BNd/I03lBsNINyjgS281xCgwqXxRdrJKiCUZRZGbnly6Lx3Rfm2PKpQLrs+X+hCpSQLu7eprvRQUzHYSesUt4cFAKOFWAw1JMlr7g4Nbs2BOMEHjNFM9GyTcZVytkV4/uhmxYeLFRfsCeP6QWi2cbp2Bcj9lMTmcScDacwXdfg5Sby4Pw==</sign>
+    <charset>UTF-8</charset>
+    <body>王冬梅小吃</body>
+    <sign_type>RSA_1_256</sign_type>
+    <nonce_str>a4f7848d198b4d64b980753db8da19d2</nonce_str>
+    <open_app_id>11315170</open_app_id>
+    <mch_id>187510021255</mch_id>
+    <is_raw>0</is_raw>
+    <is_minipg>1</is_minipg>
+    <out_trade_no>2203212004185376216</out_trade_no>
+    <device_info>HPAY_FIXATIONCODE_WXMINIAPP</device_info>
+    <op_user_id>187510021255</op_user_id>
+    <openid>ofe7y4t0XFAWsbWdGHsZ1tOPuE14</openid>
+    <appid>wx03ebca4b80c20fa8</appid>
+    <total_fee>500</total_fee>
+    <mch_create_ip>58.243.250.11</mch_create_ip>
+    <notify_url>https://cwebeppcm.hstypay.com/eppcm-cweb/tradeNotify/wft</notify_url>
+    <time_start>20220321082232</time_start>
+    <time_expire>20220321082732</time_expire>
+    <biz_detail>{"uid":4696216,"pay_money":"500","discount_detail":[]}</biz_detail>
+</SpayWechatJspayReqBody>
+
+
+<SpayWechatJspayReqBody>
+    <service>pay.weixin.jspay</service>
+    <version>2.0</version>
+    <sign>eHnLAABbw7JmifLrlq6RcmI3tr6YJzRUgxIGdSCBuX5opttLRewHDZBcu8I0O7/x7zLpUyXfrcf5A/EP+yg6bSblYJr+mr7n89ArmdGoFKRs7UzFDcBuav7/lu5kfpn3AFCvjqTsW46tKOZs4U9qHTWZPvmY8kq50bX2reSbRLicZo+YgCHfBtpXi0Pl5ROPY7mwaOUnrl+KN6xwdNLWHRtGt0C54SaMFLGJwbfkUe9GVK6i2eRh94fBxnUwDjMpOO4O/p3plJ9BmvCuqcU9E54U5B4y3OMbIAyUeauG2S+zcTHvFvCvc/qXWxngncuMDVQEX1/jQOj80XmmPlUjJA==</sign>
+    <charset>UTF-8</charset>
+    <body>测试</body>
+    <sign_type>RSA_1_256</sign_type>
+    <nonce_str>59cafdcaaade4385a76b389bdd219ee7</nonce_str>
+    <open_app_id>10446409</open_app_id>
+    <mch_id>208500000082</mch_id>
+    <is_raw>0</is_raw>
+    <is_minipg>1</is_minipg>
+    <out_trade_no>2203241000031624832</out_trade_no>
+    <device_info>HPAY_FIXATIONCODE_WXMINIAPP</device_info>
+    <op_user_id>208500000082</op_user_id>
+    <sub_openid>oPv8R0XabtrNCkTsuXfaMMq8gebQ</sub_openid>
+    <sub_appid>wx5ddb6c0a70a65956</sub_appid>
+    <total_fee>1</total_fee>
+    <mch_create_ip>112.95.161.235</mch_create_ip>
+    <notify_url>https://cweb-eppcm.hstytest.com/eppcm-cweb/tradeNotify/wft</notify_url>
+    <time_start>20220324143055</time_start>
+    <time_expire>20220324143555</time_expire>
+    <biz_detail>{"uid":15234832,"pay_money":"1","discount_detail":[]}</biz_detail>
+</SpayWechatJspayReqBody>
+
+
+
+<SpayWechatJspayReqBody>
+    <service>pay.weixin.jspay</service>
+    <version>2.0</version>
+    <sign>O+2vegetLzinLvfeAH9hOnnFh0PwwiB/SbDILPLR8V+8KiDfHKxotsx6aZwaOSLibb8YUp7Ol422Nj0nFx7Se+oHvssG7sGm1C2p+YCnjsRs2qvfjM4tGGuO/osS41ogS5zuRb+pi8+9HKNrrN9Ho0MjAf9uHTt6S4/xetLhBBGCNqYBpaPNTKIMiwUmQC423H6hb6EXx7Omp8cpER0Lzo3OPgfZF/lsIfK31qIHk5PuxB6jLMC7c2LjaKqvtTGCDpR9kQOyZMyVUpd8uB2Vvdk87k1c7fukBEGmeXhJ2WMsr5AVTJ35SGqmmKCzBgNQd1Uo/mltBvXhXCzb9MRtFw==</sign>
+    <charset>UTF-8</charset>
+    <body>测试</body>
+    <sign_type>RSA_1_256</sign_type>
+    <nonce_str>55a0a329004f4691813b0c4e9d1cab64</nonce_str>
+    <open_app_id>10446409</open_app_id>
+    <mch_id>208500000082</mch_id>
+    <is_raw>0</is_raw>
+    <is_minipg>1</is_minipg>
+    <out_trade_no>2203241000031625832</out_trade_no>
+    <device_info>HPAY_FIXATIONCODE_WXMINIAPP</device_info>
+    <op_user_id>208500000082</op_user_id>
+    <sub_openid>oPv8R0XabtrNCkTsuXfaMMq8gebQ</sub_openid>
+    <sub_appid>wx5ddb6c0a70a65956</sub_appid>
+    <total_fee>1</total_fee>
+    <mch_create_ip>112.95.161.235</mch_create_ip>
+    <notify_url>https://cweb-eppcm.hstytest.com/eppcm-cweb/tradeNotify/wft</notify_url>
+    <time_start>20220324143905</time_start>
+    <time_expire>20220324144405</time_expire>
+    <biz_detail>{"uid":15234832,"pay_money":"1","discount_detail":[]}</biz_detail>
+</SpayWechatJspayReqBody>

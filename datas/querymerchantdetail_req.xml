@@ -1,0 +1,8 @@
+<TfpMchQueryReqBody>
+    <version>1.0</version>
+    <sign>AvIZ+B00CEhd4fMeUHruafxNk861n8XVzujDEIawU2/EotSIcoNmNfFdcjhYW0XyLjll4VibhZvpzBhmBs+LM0dCRiwwkUHRww6zQear+Wo/1/UyxzYRJ5rQnfZoPVoEALgcKjFjaDybmg2S4vD2T8lkg0v+762NuVvaPRmZWzw=</sign>
+    <trade_app_id>10446409</trade_app_id>
+    <tfp_message_id>b4d449783ad54586b1203a392d5669a9</tfp_message_id>
+    <merchant_id>208500000082</merchant_id>
+    <service_name>merchant_query</service_name>
+</TfpMchQueryReqBody>

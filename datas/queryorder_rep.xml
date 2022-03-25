@@ -1,0 +1,31 @@
+<xml>
+    <appid><![CDATA[wx1f87d44db95cba7a]]></appid>
+    <bank_type><![CDATA[OTHERS]]></bank_type>
+    <cash_fee><![CDATA[1]]></cash_fee>
+    <charset><![CDATA[UTF-8]]></charset>
+    <coupon_fee><![CDATA[0]]></coupon_fee>
+    <device_info><![CDATA[HPAY_FIXATIONCODE_WXMINIAPP_null]]></device_info>
+    <fee_type><![CDATA[CNY]]></fee_type>
+    <gmt_payment><![CDATA[20220325154630]]></gmt_payment>
+    <is_subscribe><![CDATA[N]]></is_subscribe>
+    <mch_id><![CDATA[208500000082]]></mch_id>
+    <mdiscount><![CDATA[0]]></mdiscount>
+    <nonce_str><![CDATA[af3e5506d01d4a9cbcbb989250c72865]]></nonce_str>
+    <open_app_id><![CDATA[10446409]]></open_app_id>
+    <openid><![CDATA[oywgtuFdssBHTf66rGFJGJHV9jlM]]></openid>
+    <out_trade_no><![CDATA[2203251000031629832]]></out_trade_no>
+    <out_transaction_id><![CDATA[4200001314202203259610346087]]></out_transaction_id>
+    <result_code><![CDATA[0]]></result_code>
+    <sign><![CDATA[U/0rW10cSVW5HKDLBJdQ315OQiN5Rby+xb2Xpt2G8Ah5pmhA3DnjoZK6Ph87OGrHWmwGYB57LKot0SvSHMLiDiirpScUdG16W1uxPP76lY3zjQ2Pkq+2ktu6dp3uldIz12TxxNBNFCjlBMGsdPgns9/cWKXP4Iyc1qWg5YG1KHQZq1hTl8Zw2txMSbcsL74xPe/D1x/vAvIKCIjRIIpQ/zT0zV2p4A9aMR8PaLQG7iAO9OzQR0n59QvDLPGUGW32zntk4wI0Z2G359CPolA1TTykkPj6EILj6sWXlok3GgT6dty1gI3bk8D/+Wtn5WMGCHnj7k5f55FdwebIDa05+Q==]]></sign>
+    <sign_type><![CDATA[RSA_1_256]]></sign_type>
+    <status><![CDATA[0]]></status>
+    <sub_appid><![CDATA[wx5ddb6c0a70a65956]]></sub_appid>
+    <sub_is_subscribe><![CDATA[N]]></sub_is_subscribe>
+    <sub_openid><![CDATA[oPv8R0XabtrNCkTsuXfaMMq8gebQ]]></sub_openid>
+    <time_end><![CDATA[20220325154630]]></time_end>
+    <total_fee><![CDATA[1]]></total_fee>
+    <trade_state><![CDATA[SUCCESS]]></trade_state>
+    <trade_type><![CDATA[pay.weixin.jspay]]></trade_type>
+    <transaction_id><![CDATA[20220325001520000007000056432]]></transaction_id>
+    <version><![CDATA[2.0]]></version>
+</xml>

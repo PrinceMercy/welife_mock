@@ -1,0 +1,11 @@
+<SpayTradeQueryReqBody>
+    <service>unified.trade.query</service>
+    <version>2.0</version>
+    <sign>d0aPazbHJBAnySJDmbWqN2/5Vlt9p6RhaWGcqDnOY8PU42BBouVJQUCyUIKjsHepcWYzN1WQhSUlRI0NNGAlTR4LlDZH1yvfQ8XYzi/U00JbnjJrJMsl7Y7ZLEG5lSNN5EST/oyZ4LoeAa74yAcVnknuRTbWWtKmG6X8FHMt9KN2oZGmngK/3pP26gLrqQh0XyQ/75+97ErMTpiE4TIJvB1tmAe4W4F3ItJClpijqvE9Gq1RrHxEnFyt8t3teMURu/C0dmGNKjarxFUAqPMfDgSAhmiroTI+L3UC7U8/Rd1LTJcxzsmj90SQtrvV+Rquui3x+AI7IevCVymmI+xRbA==</sign>
+    <charset>UTF-8</charset>
+    <sign_type>RSA_1_256</sign_type>
+    <nonce_str>af3e5506d01d4a9cbcbb989250c72865</nonce_str>
+    <open_app_id>10446409</open_app_id>
+    <mch_id>208500000082</mch_id>
+    <out_trade_no>2203251000031629832</out_trade_no>
+</SpayTradeQueryReqBody>

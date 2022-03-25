@@ -1,0 +1,59 @@
+<xml>
+    <appid><![CDATA[wxc70d80cc9a635a51]]></appid>
+    <charset><![CDATA[UTF-8]]></charset>
+    <mch_id><![CDATA[187510021255]]></mch_id>
+    <nonce_str><![CDATA[a4f7848d198b4d64b980753db8da19d2]]></nonce_str>
+    <pay_info><![CDATA[{"appId":"wx03ebca4b80c20fa8","timeStamp":"1647822153","nonceStr":"49f3aae8fd3f4d16aab499a31b96b965","package":"prepay_id=wx2108223321553321117c74d8bfa3920000","signType":"RSA","status":"0","paySign":"I6bSYZT76E3EMQEk7w49FWy6ZZ/NiIUKE7GEpPkcEUYDn/rDutzkouPAviP50O+6E2/G5lybjVIl0hVMXh89+dsZlz+TkzZdNSxAvkvmTORDkejZ2U65mgQkkKjADHeFNVrEjgjs/XK6EAR8WuLr+2vPlEjE3AammyJwmTRbIXXqW3RbvAfvkVldV7d2DbB3VPPKFUKuU/TsKs/7AL/7ncTJWTdLLGeBOVWgKIHolF06YT+FZCp4bnMzvLrG9QWd/3mR4uDnIwx8DRTQnlPeJGSd3ckhY3zcT+iJzjC1kJ+fXP+K0MyEaIE2S6rfZxl9FQuJOVAweGWDpuiAz4iN3g==","callback_url":null}]]></pay_info>
+    <result_code><![CDATA[0]]></result_code>
+    <sign><![CDATA[gzaA6v6b84uIqM2aUOk8bedvqkLZDyfoSKdaVg4yOYFnmNyzrLX8orUnDW8Tg586XMu4c8fXhuzpYXFxTrrVYq3YftvtavVZRCzSe1pFngsJ6Ik4lXQaNmq1/AWSFeWZMVKxLz8nObmFQVsJGm1NVac1T2e1GyxtRHkoQyzozvE1YrIwmjXXYnv+pJC6HEKTtkfROjP29BMyy/eowb7GFCPNiJ8TYkoO12A9lBm/pkKtqZqcIvtSyKvPaZDQJt1uaLQjYzi9iGsBDBC+irbg+/UrQCsmjn6SR4fbTDzwq/kIB7Odo8C5K4o2xxwvFR51/N6ToWwDzgkY+nxvD0BO2g==]]></sign>
+    <sign_type><![CDATA[RSA_1_256]]></sign_type>
+    <status><![CDATA[0]]></status>
+    <token_id><![CDATA[6982fd0b8b8b8de7f739093cbf892e4ab]]></token_id>
+    <version><![CDATA[2.0]]></version>
+</xml>
+
+
+<xml>
+    <appid><![CDATA[wx1f87d44db95cba7a]]></appid>
+    <charset><![CDATA[UTF-8]]></charset>
+    <device_info><![CDATA[HPAY_FIXATIONCODE_WXMINIAPP]]></device_info>
+    <mch_id><![CDATA[208500000082]]></mch_id>
+    <nonce_str><![CDATA[59cafdcaaade4385a76b389bdd219ee7]]></nonce_str>
+    <pay_info><![CDATA[{"timeStamp":"1648103462371","callback_url":null,"package":"prepay_id=wx24143102179800b45460ec4c30df630000","paySign":"645B162B2CD42D55DA9A4DAD0F0E74E7","appId":"wx5ddb6c0a70a65956","signType":"MD5","nonceStr":"1648103462371","status":"0"}]]></pay_info>
+    <result_code><![CDATA[0]]></result_code>
+    <sign><![CDATA[X5PJwVaNDUkkrc8JcNj/OH8ciL6wJB3cO9k5UrBWvOcuRcdVmUpA2RnWp4mSOaORaDnkO6tZwAYDh60bvPksxJXe3zIZH27y4TFv612TGGPf7rAIIw3dYHpynEtxSCRvrpvmJTVfEAASHElDkssXmkFX0U0oSf/SFyaFks/hK3DSf02/RsgCVEzkTXv6Cvri7kwNa07w1rovVw+Pc7aDHrhDkdlq6QnLKigKAJss/o6LUZV03Vy/+HMdqOjOm4WhEPaXtBJr6KacZSVmvqqybKhnCU75pFo5cctFFxmxMNuMhFde+OXoR31DoAAqKU/sn3wWRaaFODFkUXKfgMre4w==]]></sign>
+    <sign_type><![CDATA[RSA_1_256]]></sign_type>
+    <status><![CDATA[0]]></status>
+    <token_id><![CDATA[0b9f541301da4c2a14b26728ac39fbc3b]]></token_id>
+    <version><![CDATA[2.0]]></version>
+</xml>
+
+<xml>
+    <appid><![CDATA[wx1f87d44db95cba7a]]></appid>
+    <charset><![CDATA[UTF-8]]></charset>
+    <device_info><![CDATA[HPAY_FIXATIONCODE_WXMINIAPP]]></device_info>
+    <mch_id><![CDATA[208500000082]]></mch_id>
+    <nonce_str><![CDATA[59cafdcaaade4385a76b389bdd219ee7]]></nonce_str>
+    <pay_info><![CDATA[{"timeStamp":"1648103462371","callback_url":null,"package":"prepay_id=wx24143102179800b45460ec4c30df630000","paySign":"645B162B2CD42D55DA9A4DAD0F0E74E7","appId":"wx5ddb6c0a70a65956","signType":"MD5","nonceStr":"1648103462371","status":"0"}]]></pay_info>
+    <result_code><![CDATA[0]]></result_code>
+    <sign><![CDATA[X5PJwVaNDUkkrc8JcNj/OH8ciL6wJB3cO9k5UrBWvOcuRcdVmUpA2RnWp4mSOaORaDnkO6tZwAYDh60bvPksxJXe3zIZH27y4TFv612TGGPf7rAIIw3dYHpynEtxSCRvrpvmJTVfEAASHElDkssXmkFX0U0oSf/SFyaFks/hK3DSf02/RsgCVEzkTXv6Cvri7kwNa07w1rovVw+Pc7aDHrhDkdlq6QnLKigKAJss/o6LUZV03Vy/+HMdqOjOm4WhEPaXtBJr6KacZSVmvqqybKhnCU75pFo5cctFFxmxMNuMhFde+OXoR31DoAAqKU/sn3wWRaaFODFkUXKfgMre4w==]]></sign>
+    <sign_type><![CDATA[RSA_1_256]]></sign_type>
+    <status><![CDATA[0]]></status>
+    <token_id><![CDATA[0b9f541301da4c2a14b26728ac39fbc3b]]></token_id>
+    <version><![CDATA[2.0]]></version>
+</xml>
+
+<xml>
+    <appid><![CDATA[wx1f87d44db95cba7a]]></appid>
+    <charset><![CDATA[UTF-8]]></charset>
+    <device_info><![CDATA[HPAY_FIXATIONCODE_WXMINIAPP]]></device_info>
+    <mch_id><![CDATA[208500000082]]></mch_id>
+    <nonce_str><![CDATA[55a0a329004f4691813b0c4e9d1cab64]]></nonce_str>
+    <pay_info><![CDATA[{"timeStamp":"1648103950894","callback_url":null,"package":"prepay_id=wx2414391080224610b34215c949183f0000","paySign":"F98B6C2C7F8172BBCE4DC51B87C79521","appId":"wx5ddb6c0a70a65956","signType":"MD5","nonceStr":"1648103950894","status":"0"}]]></pay_info>
+    <result_code><![CDATA[0]]></result_code>
+    <sign><![CDATA[PLMAo7Snu0R0w7+20tDK1OJKsmASuQHBQkhqvmByMHpaP9jWzt3japbo/8Z4H/t3p53L35LtRzgqF9QPFz8QCBWRQEcR2N0ZCJF3FuCf1XEqSLP60aq3A2jpfkjEl3EDwEzGSnY3BmJS5riCjsHbiKKQHG+meinpMZ4uPHq//sfwk7b4muL0i3L64Esihhin+b2jj6JPzw2sojWhlB3h6hmyMr1EiM1IYbXAoDw82TVHoW5Yq1iPBD4BhthFAGzpKatpopiW3lDdOUpl5tZYpflc6PriO4GmbrxC19LGtR//VK+YOFX+jCYqXoMkWxFWLX/P9OiABjJXY447Rkiq7A==]]></sign>
+    <sign_type><![CDATA[RSA_1_256]]></sign_type>
+    <status><![CDATA[0]]></status>
+    <token_id><![CDATA[0bea3bba14a425b2a8c1cfc3e51cb13d5]]></token_id>
+    <version><![CDATA[2.0]]></version>
+</xml>
