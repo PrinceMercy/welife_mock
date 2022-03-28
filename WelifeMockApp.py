@@ -22,7 +22,7 @@ def pay_order():
         rep_xml = po.queryorder()
     return rep_xml
 
-@app.route('/public/tfpApi',methods=['get','post'])
+@app.route('/public/tfpApi/unify',methods=['get','post'])
 def  pubilc_tfpapi_unify():
     req_str = str(request.get_data(),'utf-8')
     req_dict = xmltodict.parse(req_str)
@@ -34,4 +34,4 @@ def  pubilc_tfpapi_unify():
     return rep_xml
 
 if __name__ == '__main__':
-    app.run(port=9091, debug=True, host='0.0.0.0')
+    app.run(port=29991, debug=True, host='0.0.0.0')

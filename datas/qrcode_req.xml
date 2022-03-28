@@ -1,0 +1,8 @@
+<TfpQrcodeQueryReqBody>
+    <version>1.0</version>
+    <sign>azNRLR72mv7fbYCViVQ0kFLjU5Wm+g6Q0cOqgj4BczcGp5OpLVh2zBE2IWOqkaEmSo9tzrygUGWBe3yDyK83+oEpJyjeGvJmcQSUGgAIlbTnKfae8YF35GnvfH1e6yi6MNhw+xvJwY4F2EP4iHgBQIOOyTcVCdpG6Sny6/RQcQQ=</sign>
+    <qrcode>69af92c1a2b246358e987e0c3bef900e</qrcode>
+    <trade_app_id>10446409</trade_app_id>
+    <tfp_message_id>78bb9a30593c4f208d908b0521025efc</tfp_message_id>
+    <service_name>qrcode_query</service_name>
+</TfpQrcodeQueryReqBody>

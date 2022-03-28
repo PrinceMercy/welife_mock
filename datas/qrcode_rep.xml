@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xml>
+    <merchant_id>208500000082</merchant_id>
+    <merchant_name>Jane测试商户</merchant_name>
+    <merchant_short_name>测试</merchant_short_name>
+    <qr_code_use_status>2</qr_code_use_status>
+    <result_code>0</result_code>
+    <sign>gxgwuicciSMr6OdqoHIM4dA2moUa8LRi5neLe/hjakZZMoO2kq5FBdayx9GCv9YY37ITyIEIqPEnHDr+qKSHT8pa+9cnn0P3yzIlsPMYtR8nvT6IVP0nQMVcYyVeyCdTFM1JVXEG+/L4yX6RFppwejK5VciGIL2c2xnCp5wCGzU=</sign>
+    <status>0</status>
+    <version>1.0</version>
+</xml>
