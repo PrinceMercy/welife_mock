@@ -9,7 +9,7 @@ class WftPayOrder:
     
     # 下单接口
     def weixinjspay(self):
-        print(self.req_dict['SpayWechatJspayReqBody'])
+        # print(self.req_dict['SpayWechatJspayReqBody'])
         # rep_dict = xmltodict.parse(pay_rep)
         # print(rep_dict['xml'])
         mch_id = self.req_dict['SpayWechatJspayReqBody']['mch_id']
@@ -23,7 +23,7 @@ class WftPayOrder:
         return rep_xml
     
     def queryorder(self):
-        print(self.req_dict['SpayTradeQueryReqBody'])
+        # print(self.req_dict['SpayTradeQueryReqBody'])
         # rep_dict = xmltodict.parse(qo_rep)
         # print(rep_dict['xml'])
         mch_id = self.req_dict['SpayTradeQueryReqBody']['mch_id']
